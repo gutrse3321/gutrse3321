@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你好呀 👋
 
 <!--
 **gutrse3321/gutrse3321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👺昵称(Nickname): 友则
+- 📫邮箱(e-mail): gutrse3321@live.com
+- ✍️偏向(programming language): golang, java, javascript
+- 💬 😄现在的话，网络社交基本没有，会打音游来消遣，其他游戏会玩(100小时的基本是なし)。
