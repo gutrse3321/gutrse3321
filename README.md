@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - 📫邮箱(e-mail): gutrse3321@live.com
 - 👉🏻👌🏻: ```wechat: toB32r```, ```QQ: 464189307```
 - ✍️偏向(programming language): golang, java, javascript
+- ⚡推广: ```bilibili: https://space.bilibili.com/313266```
 - 💬 😄现在的话，网络社交基本没有，很少在社交平台发言，聊天到还好。会打音游来消遣，其他游戏会玩(50小时及以上的基本是なし)。
+
+#### 时间和我说的
+2020-08-26 23:30:36 もちひら舞见的笑颜太棒啦! 星期五开始要加油了(各种意味)...
 
 ![友则的github](https://github-readme-stats.vercel.app/api?username=gutrse3321&show_icons=true&theme=radical)
